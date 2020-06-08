@@ -1,165 +1,542 @@
 {
-  "identity" : "1589788125613747",
+  "identity" : "1591412693289545",
   "commands" : [
     {
+      "is_close" : false,
+      "app_name" : "炉石传说",
+      "command_type" : 7,
+      "command_play_time" : 0,
+      "package_name" : "com.blizzard.wtcg.hearthstone"
+    },
+    {
       "slotId" : 1,
       "command_type" : 0,
-      "command_play_time" : 3.1590468883514404,
+      "command_play_time" : 2.6450011730194092,
       "point" : {
-        "x" : 786.1053466796875,
-        "y" : 149.49544270833331
+        "x" : 789.61919910179643,
+        "y" : 100.08233532934128
       }
     },
     {
       "command_type" : 1,
-      "command_play_time" : 3.3153860569000244,
+      "command_play_time" : 2.8905811309814453,
       "slotId" : 1
     },
     {
       "slotId" : 1,
       "command_type" : 0,
-      "command_play_time" : 4.5261240005493164,
+      "command_play_time" : 3.0260581970214844,
       "point" : {
-        "x" : 786.1053466796875,
-        "y" : 149.49544270833331
+        "x" : 789.61919910179643,
+        "y" : 100.08233532934128
       }
     },
     {
       "command_type" : 1,
-      "command_play_time" : 4.6627979278564453,
+      "command_play_time" : 3.2214422225952148,
       "slotId" : 1
     },
     {
       "slotId" : 1,
       "command_type" : 0,
-      "command_play_time" : 5.9055459499359131,
+      "command_play_time" : 3.4609780311584473,
       "point" : {
-        "x" : 786.1053466796875,
-        "y" : 149.49544270833331
+        "x" : 789.61919910179643,
+        "y" : 100.08233532934128
       }
     },
     {
       "command_type" : 1,
-      "command_play_time" : 6.0452840328216553,
+      "command_play_time" : 3.6120710372924805,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 3.7659921646118164,
+      "point" : {
+        "x" : 789.61919910179643,
+        "y" : 100.08233532934128
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 3.9051411151885986,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 4.9652771949768066,
+      "point" : {
+        "x" : 789.32915419161679,
+        "y" : 103.30838323353291
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 5.0879182815551758,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 5.1905481815338135,
+      "point" : {
+        "x" : 789.32915419161679,
+        "y" : 103.30838323353291
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 5.2882711887359619,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 5.3876280784606934,
+      "point" : {
+        "x" : 789.32915419161679,
+        "y" : 103.30838323353291
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 5.4994492530822754,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 5.6227781772613525,
+      "point" : {
+        "x" : 789.32915419161679,
+        "y" : 103.30838323353291
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 5.7356572151184082,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 5.8980951309204102,
+      "point" : {
+        "x" : 789.32915419161679,
+        "y" : 103.30838323353291
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 6.0367522239685059,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 6.6471011638641357,
+      "point" : {
+        "x" : 789.32915419161679,
+        "y" : 104.19910179640709
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 6.7772591114044189,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 6.8503150939941406,
+      "point" : {
+        "x" : 789.32915419161679,
+        "y" : 104.19910179640709
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 6.9478421211242676,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 7.0377449989318848,
+      "point" : {
+        "x" : 789.32915419161679,
+        "y" : 104.19910179640709
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 7.1653010845184326,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 7.2993321418762207,
+      "point" : {
+        "x" : 789.32915419161679,
+        "y" : 104.19910179640709
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 7.4038641452789307,
       "slotId" : 1
     },
     {
       "command_type" : 10,
-      "command_play_time" : 7.9117639064788818,
+      "command_play_time" : 8.5323600769042969,
       "delay_time" : 0
+    },
+    {
+      "is_close" : false,
+      "app_name" : "炉石传说",
+      "command_type" : 7,
+      "command_play_time" : 8.5323600769042969,
+      "package_name" : "com.blizzard.wtcg.hearthstone"
     },
     {
       "slotId" : 1,
       "command_type" : 0,
-      "command_play_time" : 10.370099782943726,
+      "command_play_time" : 14.0526282787323,
       "point" : {
-        "x" : 969.586181640625,
-        "y" : 952.73980034722217
+        "x" : 972.20247005988028,
+        "y" : 931.27994011976045
       }
     },
     {
       "command_type" : 1,
-      "command_play_time" : 10.565109968185425,
+      "command_play_time" : 14.362543106079102,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 16.401623010635376,
+      "point" : {
+        "x" : 587.32223053892221,
+        "y" : 784.46107784431138
+      }
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 16.401875257492065,
+      "point" : {
+        "x" : 587.01347305389231,
+        "y" : 784.46107784431138
+      }
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 16.732915163040161,
+      "point" : {
+        "x" : 587.01347305389231,
+        "y" : 785.35179640718547
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 16.752917051315308,
       "slotId" : 1
     },
     {
       "command_type" : 10,
-      "command_play_time" : 13.584731817245483,
+      "command_play_time" : 18.314447164535522,
       "delay_time" : 0
+    },
+    {
+      "is_close" : false,
+      "app_name" : "炉石传说",
+      "command_type" : 7,
+      "command_play_time" : 18.314447164535522,
+      "package_name" : "com.blizzard.wtcg.hearthstone"
     },
     {
       "slotId" : 1,
       "command_type" : 0,
-      "command_play_time" : 17.286117792129517,
+      "command_play_time" : 21.302917003631592,
       "point" : {
-        "x" : 602.9541015625,
-        "y" : 744.99782986111109
+        "x" : 979.65007485029946,
+        "y" : 327.65718562874241
       }
     },
     {
       "command_type" : 1,
-      "command_play_time" : 17.408624649047852,
+      "command_play_time" : 21.461619138717651,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 21.603674173355103,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 327.65718562874241
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 21.735606908798218,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 21.827128171920776,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 327.65718562874241
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 21.954856157302856,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 22.052402019500732,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 327.65718562874241
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 22.175083875656128,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 22.267946004867554,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 327.65718562874241
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 22.369829893112183,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 22.495154142379761,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 327.65718562874241
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 22.613799095153809,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 22.712006092071533,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 327.65718562874241
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 22.841831922531128,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 22.939464092254639,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 327.65718562874241
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 23.069768190383911,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 24.176481962203979,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 326.77395209580834
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 24.314476013183594,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 24.435456991195679,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 326.77395209580834
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 24.509927034378052,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 24.636748075485229,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 326.77395209580834
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 24.705124139785767,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 24.831627130508423,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 326.77395209580834
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 24.93674111366272,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 25.070538997650146,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 326.77395209580834
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 25.184961080551147,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 25.77964186668396,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 325.87574850299393
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 25.902101039886475,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 25.993228197097778,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 325.87574850299393
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 26.112994909286499,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 26.218602895736694,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 325.87574850299393
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 26.340891122817993,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 26.478908061981201,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 325.87574850299393
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 26.609405994415283,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 27.211611986160278,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 325.87574850299393
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 27.309225082397461,
+      "slotId" : 1
+    },
+    {
+      "slotId" : 1,
+      "command_type" : 0,
+      "command_play_time" : 27.425771951675415,
+      "point" : {
+        "x" : 979.65007485029946,
+        "y" : 325.87574850299393
+      }
+    },
+    {
+      "command_type" : 1,
+      "command_play_time" : 27.504142045974731,
       "slotId" : 1
     },
     {
       "command_type" : 10,
-      "command_play_time" : 20.622368812561035,
+      "command_play_time" : 28.715283155441284,
       "delay_time" : 0
-    },
-    {
-      "slotId" : 1,
-      "command_type" : 0,
-      "command_play_time" : 23.527186870574951,
-      "point" : {
-        "x" : 954.5654296875,
-        "y" : 593.08268229166663
-      }
-    },
-    {
-      "command_type" : 1,
-      "command_play_time" : 23.658285617828369,
-      "slotId" : 1
-    },
-    {
-      "slotId" : 1,
-      "command_type" : 0,
-      "command_play_time" : 27.631761789321899,
-      "point" : {
-        "x" : 952.349853515625,
-        "y" : 579.48133680555554
-      }
-    },
-    {
-      "command_type" : 1,
-      "command_play_time" : 27.753078937530518,
-      "slotId" : 1
-    },
-    {
-      "slotId" : 1,
-      "command_type" : 0,
-      "command_play_time" : 28.427390813827515,
-      "point" : {
-        "x" : 952.349853515625,
-        "y" : 579.48133680555554
-      }
-    },
-    {
-      "command_type" : 1,
-      "command_play_time" : 28.558267831802368,
-      "slotId" : 1
-    },
-    {
-      "slotId" : 1,
-      "command_type" : 0,
-      "command_play_time" : 29.104387760162354,
-      "point" : {
-        "x" : 952.349853515625,
-        "y" : 579.48133680555554
-      }
-    },
-    {
-      "command_type" : 1,
-      "command_play_time" : 29.23297381401062,
-      "slotId" : 1
-    },
-    {
-      "command_type" : 10,
-      "command_play_time" : 30.452615737915039,
-      "delay_time" : 0
-    },
-    {
-      "loop_end" : 23,
-      "command_type" : 11,
-      "command_play_time" : 30.452615737915039,
-      "loop_count" : 20,
-      "loop_begin" : 0
     }
   ],
   "priority" : 0,
   "setting" : {
     "play_speed" : 1,
-    "play_interval" : 1,
-    "name" : "组合录制",
+    "play_interval" : 3,
+    "name" : "HS",
     "restart_play_time" : 3600,
     "play_on_start" : false,
     "play_time" : 0,
@@ -167,5 +544,5 @@
     "is_restart" : false,
     "play_type" : "count"
   },
-  "create_at" : 1589788125.6137471
+  "create_at" : 1591412693.2895451
 }
